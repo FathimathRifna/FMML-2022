@@ -1,4 +1,4 @@
-import numpy as np
+import numpy as nfutf
 
 from autohire.utils import parse_pdf, parse_resume_df
 from autohire.bow import BagOfWords
